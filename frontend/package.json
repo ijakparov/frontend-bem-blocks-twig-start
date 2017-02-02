@@ -1,0 +1,32 @@
+{
+  "name": "LandingPage-IM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stusha",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "compass-importer": "^0.4.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-add-src": "^0.2.0",
+    "gulp-cache": "^0.4.5",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-css-adjust-url-path": "^1.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-order": "^1.1.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-twig": "^0.7.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-watch": "^4.3.11",
+    "gulp.spritesmith": "^6.3.0",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^5.0.0",
+    "webpack-stream": "^3.2.0"
+  }
+}
